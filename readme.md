@@ -30,10 +30,7 @@ Before you begin, ensure you have the following prerequisites:
 
 ### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/keerti-1924/E-Learning-Website-HTML-CSS.git
-
+1. Clone the repository
 2. Open the project in your preferred text editor.
 3. Launch the `index.html` file in a web browser.
 
@@ -56,5 +53,6 @@ Give a ⭐️ if you like this project!
 
 
 ## License
+
 
 This project is **free to use** and does not contains any license.
